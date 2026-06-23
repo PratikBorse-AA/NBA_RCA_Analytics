@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Excel Temporary Files
+~$*.xlsx
+
+# Output Folder
+Output/
+
+# VS Code Settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
